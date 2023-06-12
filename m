@@ -1,2 +1,1 @@
 echo "my name is dnyneshwer" 
-echo "am from latur"
